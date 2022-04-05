@@ -12,3 +12,5 @@
 
 # 5주차(2022-04-05)
  <img width="" height="" src="./pic/cat.png"></img>
+<img width="" height="" src="./pic/act.png"></img>
+<img width="" height="" src="./pic/main.png"></img>
