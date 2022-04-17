@@ -16,7 +16,7 @@
 <img width="" height="" src="./pic/main.png"></img>
 
 # 6주차(2022-04-17)
- <img width="" height="" src="./pic/a1.png"></img>
-<img width="" height="" src="./pic/a2.png"></img>
-<img width="" height="" src="./pic/a3.png"></img>
-<img width="" height="" src="./pic/a4.png"></img>
+ <img width="" height="" src="./pic/a1.PNG"></img>
+<img width="" height="" src="./pic/a2.PNG"></img>
+<img width="" height="" src="./pic/a3.PNG"></img>
+<img width="" height="" src="./pic/a4.PNG"></img>
