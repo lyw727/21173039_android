@@ -23,3 +23,7 @@
 
 # 9주차(2022-04-17)
  <img width="" height="" src="./pic/sms.PNG"></img>
+
+# 10주차(2022-05-12)
+<img width="" height="" src="./pic/main.PNG"></img>
+<img width="" height="" src="./pic/menu.PNG"></img>
